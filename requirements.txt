@@ -1,4 +1,4 @@
-streamlit,
-pandas,
-numpy,
-mysql-connector-python,
+streamlit
+pandas
+numpy
+mysql-connector-python
